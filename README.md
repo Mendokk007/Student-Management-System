@@ -1,7 +1,7 @@
 ## 🖥️ TO ACCESS ON ANOTHER PC
 
 ```bash
-git clone https://github.com/Mendokk007/Student-Management-System.git
+git clone https://github.com/Mendokk007/Student-Management-System.git EXAMPLE.CUSTOMFOLDERNAME
 cd Student-Management-System
 javac Student.java DoublyNode.java Stack.java Project15_FinalSystem.java
 java Project15_FinalSystem
