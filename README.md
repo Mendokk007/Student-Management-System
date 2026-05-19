@@ -22,6 +22,8 @@ Try this sequence to verify everything works:
 - Sort by Grade (option 4b), then by ID (option 4c)
 
 
+---
+
 
 ## Misc.
 cd C:\Users\%USERNAME%\Desktop\FINALS.NAME
