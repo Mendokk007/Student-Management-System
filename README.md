@@ -1,4 +1,4 @@
-##🖥️ TO ACCESS ON ANOTHER PC
+## 🖥️ TO ACCESS ON ANOTHER PC
 
 ```bash
 git clone https://github.com/Mendokk007/Student-Management-System.git
@@ -7,7 +7,7 @@ javac Student.java DoublyNode.java Stack.java Project15_FinalSystem.java
 java Project15_FinalSystem
 ```
 
-##🧪 TEST THE SYSTEM
+## 🧪 TEST THE SYSTEM
 Try this sequence to verify everything works:
 
 - Add 3 students
