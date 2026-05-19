@@ -26,6 +26,7 @@ Try this sequence to verify everything works:
 
 
 ## Misc.
+```
 cd C:\Users\%USERNAME%\Desktop\FINALS.NAME
 dir
 
@@ -43,41 +44,50 @@ java Project13_DoublyLinkedList
 
 javac Stack.java Project14_StackImplementation.java
 java Project14_StackImplementation
-
+```
 ### Project 1 (no dependencies)
+```
 javac Project01_StudentInfoPrinter.java
 java Project01_StudentInfoPrinter
-
+```
 ### Project 2 (no dependencies)
+```
 javac Project02_SimpleStudentList.java
 java Project02_SimpleStudentList
 
 javac Student.java StudentList.java Project04_DynamicStudentList.java
 java Project04_DynamicStudentList
-
+```
 ### Project 5
+```
 javac Student.java StudentList.java Project05_LinearSearch.java
 java Project05_LinearSearch
-
+```
 ### Project 6
+```
 javac Student.java StudentList.java Project06_BinarySearch.java
 java Project06_BinarySearch
-
+```
 ### Project 7
+```
 javac Student.java StudentList.java Project07_BubbleSort.java
 java Project07_BubbleSort
-
+```
 ### Project 8
+```
 javac Student.java StudentList.java Project08_SelectionSort.java
 java Project08_SelectionSort
-
+```
 ### Project 9
+```
 javac Student.java StudentList.java Project09_InsertionSort.java
 java Project09_InsertionSort
-
+```
 ### Project 10
+```
 javac Student.java StudentList.java Project10_SortingComparison.java
 java Project10_SortingComparison
 
 javac Student.java DoublyNode.java Stack.java Project15_FinalSystem.java
 java Project15_FinalSystem
+```
